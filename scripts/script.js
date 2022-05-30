@@ -152,7 +152,7 @@ function drawStartMsg(){
 function drawScore(){
 	ctx.font="19px Arial";
 	ctx.fillStyle="#FFFFFF";
-	ctx.fillText("🪙 "+score,45,20);
+	ctx.fillText("🔷 "+score,45,20);
 }
 
 function drawLives(){
